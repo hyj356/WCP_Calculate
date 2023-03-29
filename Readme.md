@@ -74,7 +74,7 @@ make
 
 ```
 &inputparameter
-filename =    'CoCuFeNiPd-2m.txt'
+filename =    '../model/CoCuFeNiPd-2m.txt'
 ltype    =    'fcc'
 lattice  =    3.6d0
 /
