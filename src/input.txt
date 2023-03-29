@@ -1,0 +1,5 @@
+&inputparameter
+filename =  '../model/CoCuFeNiPd-4M.txt'
+ltype    =  'fcc'
+lattice  =   3.6d0
+/
